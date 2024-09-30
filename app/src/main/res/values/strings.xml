@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retro Resto</string>
+    <string name="image_of_resto">Image of Resto</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="lorem_ipsum_dolor">Lorem Ipsum Dolor</string>
+    <string name="your_review_dude">Your review dude ....</string>
+    <string name="review">Review\n</string>
+    <string name="send">Send</string>
+</resources>
